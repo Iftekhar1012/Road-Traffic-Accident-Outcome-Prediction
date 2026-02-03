@@ -1,0 +1,3 @@
+This project applies machine learning to predict patient status and injury type from a road traffic accident dataset collected in Rawalpindi, Punjab, Pakistan (Harvard Dataverse). The dataset contains 25 features and represents an imbalanced, multiclass classification problem.
+
+Multiple models—including Logistic Regression, Decision Trees, Random Forests, SVM, AdaBoost, and XGBoost—are evaluated and compared using accuracy, precision, recall, and F1-score. The goal is to identify effective ML approaches for accident outcome prediction to support emergency response, healthcare planning, and traffic safety analysis.
